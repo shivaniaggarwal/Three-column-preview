@@ -154,7 +154,7 @@ h1 {
   padding-top: 70px;
 } */
 
-@media(max-width:500px)
+@media(max-width:375px)
 {
   .sedan{
     border-radius: 10px 10px 0 0;
